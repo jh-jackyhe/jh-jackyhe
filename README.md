@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacky He
-- 👀 I’m interested in getting a software engineering internship
-- 🌱 I’m currently learning C++ and Java
+- 👀 I’m interested in working in machine learning engineering, software engineering, data engineering
+- 🌱 I’m currently learning Agentic AI
 - 📫 Reach me via email to hunxiong@gmail.com
 
 <!---
